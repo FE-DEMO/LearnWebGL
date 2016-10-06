@@ -1,0 +1,22 @@
+{
+  "name": "learn-webgl",
+  "version": "1.0.0",
+  "description": ":cyclone: A learning notes of WebGL",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE-DEMO/LearnWebGL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FE-DEMO/LearnWebGL/issues"
+  },
+  "homepage": "https://github.com/FE-DEMO/LearnWebGL#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
